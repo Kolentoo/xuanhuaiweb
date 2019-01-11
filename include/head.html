@@ -1,0 +1,169 @@
+<div class="top1">
+  <div class="main">
+   <ul class="cd_t">
+    <li class="l1"><a href="">中文</a> | <a href="">EN</a></li>
+    <li class="hide"><a href="tencent://message/?uin=850502990&Site=Sambow&Menu=yes"><i class="icon1 iconbox"></i></a></li>
+    <li><a href=""><i class="icon2 iconbox"></i></a><div class="txtk"><img class="code" src="../images/ewm2.jpg" /></div></li>
+    <li><a href="mailto:service@hsuanhuai.com"><i class="icon3 iconbox"></i></a></li>
+    <li class="phonebox">
+      <a class="block" href="tel:4007651616">
+        <i class="icon4 iconbox"></i>
+      </a>
+      <div class="phoneTips">
+        <img class="phone-icon" src="images/gy_tel.png" >
+        <span class="s1">400-765-1616</span>
+      </div>
+    </li>
+   </ul>
+  </div>
+</div>
+<div class="top">
+ <div class="main">
+   <a href="index.shtml" class="logo"></a>  
+    <span class="s_yy"><a href="">中文</a> | <a href="">EN</a></span>
+    <span class="menu2" id="menu2"><a href="javascript:void(0)">&nbsp;</a></span> 
+      <div id=navk>    
+     <ul class="menu">
+     <!--当前栏目请在dbt里引用on-->          
+     <li><a href="index.shtml" class="dbt">首页</a>
+     </li>                  
+     <li><a href="about_us.shtml" class="dbt on">关于宣怀</a>
+      <div class="txtk">
+        <span class="s1">关于宣怀</span>
+        <p>宣怀教育创立于2011年， 是一家致力于以国际科创力教育为核心的教育研发、咨询和运营管理公司。</p>
+        <dl>
+         <dd><a href="about_us.shtml">关于我们</a></dd>
+         <dd><a href="csl.shtml">CSL体系</a></dd>
+         <dd><a href="cooperate.shtml">合作伙伴</a></dd>
+        </dl>
+      </div>
+     </li>
+     <li><a href="research.shtml" class="dbt">教育研究</a>
+      <div class="txtk">
+        <span class="s1">教育研究</span>
+        <p>拥有中国灵魂、国际视野、社会担当的未来世界公民与青年领袖，应当具备更丰富多元的竞争力。</p>
+        <dl>
+         <dd><a href="research.shtml">表达力课程</a></dd>
+         <dd><a href="#">科创力课程</a></dd>
+         <dd><a href="#">领导力课程</a></dd>
+        </dl>
+      </div>
+     </li>
+     <li><a href="kindergarten.shtml" class="dbt">教育项目</a>
+      <div class="txtk">
+        <span class="s1">教育项目</span>
+        <p>在快乐中探索世界文化与科技文明。</p>
+        <dl>
+         <dd><a href="kindergarten.shtml">国际科学幼儿园</a></dd>
+         <dd><a href="#">国际科技学校</a></dd>
+         <dd><a href="csl.shtml">国际菁英学习中心</a></dd>
+         <dd><a href="#">STEAM教育联盟</a></dd>
+        </dl>
+      </div>
+     </li>
+     <li><a href="news.shtml" class="dbt">新闻中心</a>
+      <div class="txtk">
+        <span class="s1">新闻中心</span>
+        <p>和我们一起，在未来科技时代远行。</p>
+        <dl>
+         <dd><a href="news.shtml">集团新闻</a></dd>
+         <dd><a href="industry.shtml">行业观察</a></dd>
+        </dl>
+      </div>
+     </li>
+     <li><a href="connect.shtml" class="dbt">联系我们</a>
+      <div class="txtk">
+        <span class="s1">联系我们</span>
+        <p>诚实守信 团队协作 追求极致 超越期望。</p>
+        <dl>
+         <dd><a href="connect.shtml">联系我们</a></dd>
+         <dd><a href="join_us.shtml">加入宣怀</a></dd>
+        </dl>
+      </div>
+     </li>
+
+    </ul>
+    </div>
+    <div class="clear"></div>
+   </div>  
+</div>
+<div class="top_jg"></div>
+<script type=text/javascript>  
+  $(document).ready(function() {
+    var pk=document.body.clientWidth;
+    if(pk<1000){
+  //手机菜单
+  $("#menu2").click(function(){
+    if($("#navk").css("display")=="none"){
+      $(this).find("a").addClass("on");
+          $("#navk").css("display","block").stop().animate({ left:'0%'});
+    }
+      else{
+      $(this).find("a").removeClass("on");
+          $("#navk").css("display","none").stop().animate({ left:'100%'});	
+      }
+    });  
+    }
+    else{
+      $(".menu").hover(function() {
+        //$("#menu_bj").css("display","block");
+      },function(){
+          
+        //$("#menu_bj").css("display","none");
+      });
+    
+      };
+
+
+
+      // 查询当前on位置
+      $('.menu').children('li').each(function(a,b){
+        if($(b).find('.dbt').hasClass('on')){
+          sessionStorage.setItem('onindex',a)
+        }
+      })
+
+      $('.dbt').hover(function(){
+        
+        var o = $(this);
+        var op = o.parent('li');
+        var os = op.siblings();
+        os.find('.dbt').removeClass('on');
+        o.addClass('on');
+
+      });
+
+      $('.dbt').on('mouseleave',function(){
+        var o = $(this);
+        var op = o.parent('li');
+        var os = op.siblings();
+
+      });
+
+
+      $('.menu').on('mouseleave',function(){
+        var onindex = sessionStorage.getItem('onindex');
+        $('.menu').find('li').find('.dbt').removeClass('on');
+        $('.menu').find('li').eq(onindex).find('.dbt').addClass('on');
+
+
+      });
+
+
+
+
+      var w = $(window).scrollTop();
+      if (w >= 65) {
+          $(".top1").addClass('topoff');
+          $(".top").addClass('topoff');
+      } else {
+          $(".top1").removeClass('topoff');
+          $(".top").removeClass('topoff');
+      }
+
+
+
+
+  });  
+//-->  
+</script>

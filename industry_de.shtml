@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>宣怀教育-行业观察</title>
+<meta name="description" content="宣怀教育" />
+<meta name="keywords" content="宣怀教育" />
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<!-- Bootstrap -->    
+<link rel="stylesheet" href="css/bootstrap.min.css">
+<link rel="stylesheet" href="css/bootstrap-theme.min.css">
+<link type="text/css" rel="stylesheet" href="css/css.css" />
+<script src="js/jquery.min.js"></script>
+<!-- swiper -->
+<link rel="stylesheet" href="css/idangerous.swiper.css">
+<script src="js/idangerous.swiper.min.js"></script>
+<script src="js/core.js"></script>
+</head>
+<body>
+<div class="head" id="head"></div>
+<div class="news_de_jg"></div>
+<div class="bread">
+  <a href="" class="a1">首页</a>
+  <i>></i>
+  <a href="" class="a1">集团新闻</a>
+  <i>></i>
+  <span class="a1 a2">新闻详情</span>
+</div>
+<div class="csl1 ny_news xw_bj">
+ <div class="main">
+   <div class="sbt">斯耐特徒步环湖·大爱白云公益活动</div>
+   <div class="ssj">日期：2018-04-28&nbsp;&nbsp;&nbsp;&nbsp;浏览：156</div>
+   <div class="snr">
+     <p>深圳市机械工程学会无损检测分会2018年常务理事扩大会于4月14日在深圳职业技术学院召开。来自深圳、珠海、香港的36名理事及部分代表共40人参加了本次会议。会议由分会副理事长兼秘书长缪泽军主持。</p>
+     <p>深职院机电工程学院郭树军副院长到会祝贺，郭院长感谢无损检测学会及各位专家对深职院无损检测专业的人才培养给予的长期支持，表示深职院将一如既往地支持学会的工作。深圳市机械工程学会杜建铭秘书长到会指导，杜秘书长高度称赞无损检测分会在学会建设、企业服务、技术交流等方面所取得的成就并对分会在会员重新登记备案、会员服务等方面等作出指导。珠海市无损检测学会游泳秘书长到会祝贺，游秘书长介绍了珠海无损检测学会的发展和成就，表示愿与深圳无损检测学会加强交流合作。</p>
+   
+     <p>李海泉副理事长汇报了学会去年的工作，总结了工作成绩，也指出了不足。晏荣明理事长介绍了学会2018年的工作计划，指出学会工作的重点是学会建设、学术和技术交流、社会服务和合作，尤其要创新学会的工作思路、提升学会的服务水平和凝聚力、扩大学会的影响。他表示要和珠海学会一起努力创新地方学会的工作多做实事，做出成效，为全国地方学会做出表率。</p>
+     <p>学会特邀理事、原香港AES公司总经理黄建明先生发言中强调应注重新技术的发展和应用，愿意义务给学会及同行分享无损检测的实际经验；深圳市锋瑞佳公司赵维众做了题为《数字射线DR技术的进展》的报告；深圳亨立公司的邓德进介绍了无损检测新技术、新设备方面的进展；深圳市泰克尼林公司总经理冷小琪就企业无损检测技术应用开发、招商重工深圳公司技术负责人张国林就会员招募情况做了发言。<br>
+       学会特邀理事、原香港AES公司总经理黄建明先生发言中强调应注重新技术的发展和应用，愿意义务给学会及同行分享无损检测的实际经验；深圳市锋瑞佳公司赵维众做了题为《数字射线DR技术的进展》的报告；深圳亨立公司的邓德进介绍了无损检测新技术、新设备方面的进展；深圳市泰克尼林公司总经理冷小琪就企业无损检测技术应用开发、招商重工深圳公司技术负责人张国林就会员招募情况做了发言。</p>
+   </div>
+   
+  <div class="clear"></div>
+
+   <a href="" class="block backtonews">
+     <i class="icon-back"></i>
+      <span class="s2">返回</span>
+   </a>
+ </div>
+</div>
+
+<div class="footbox" id="footbox"></div>
+</body>
+</html>

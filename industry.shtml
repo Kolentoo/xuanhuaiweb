@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>宣怀教育-行业观察</title>
+<meta name="description" content="宣怀教育" />
+<meta name="keywords" content="宣怀教育" />
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<!-- Bootstrap -->    
+<link rel="stylesheet" href="css/bootstrap.min.css">
+<link rel="stylesheet" href="css/bootstrap-theme.min.css">
+<link type="text/css" rel="stylesheet" href="css/css.css" />
+<script src="js/jquery.min.js"></script>
+<!-- swiper -->
+<link rel="stylesheet" href="css/idangerous.swiper.css">
+<script src="js/idangerous.swiper.min.js"></script>
+<script src="js/core.js"></script>
+</head>
+<body>
+<div class="head" id="head"></div>
+<div class="ny_ban">
+<img src="images/xw_ban.jpg">
+ <div class="txtk">
+  <div class="main">
+   <a href="#" class="dbt">"宣怀圣诞亲子嘉年华"武汉站圆满落幕</a>
+   <a href="#" class="cd_more1">了解更多<span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span></a>
+  </div>
+ </div>
+</div>
+<div class="csl1 ny_news xw_bj">
+ <div class="main">
+  <div class="csl_bt1"><i></i>行业观察<i></i><h3>和我们一起，在未来科技时代远行</h3></div>
+  
+  <ul class="sy_lb2">
+   <li>
+     <div class="imgk"><a href=""><img src="images/sy_b1.jpg"></a></div>
+     <div class="txtk">
+      <a href="" class="dbt">携手中国科学院幼儿园，宣怀教育与中科启元签订战略合作协议</a>
+      <span class="sj">2018-06-3</span>
+      <p>宣怀教育与中国科学院中科启仁签订战略合作协议，引入中科院先进的科学课程体系，中科启元郭美仙及宣怀教育副总裁王鹏等出席此次签约仪式。</p>
+      <a href="" class="cd_more1"><span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span></a>
+     </div>
+    </li>
+    <li>
+     <div class="imgk"><a href=""><img src="images/sy_b1.jpg"></a></div>
+     <div class="txtk">
+      <a href="" class="dbt">携手中国科学院幼儿园，宣怀教育与中科启元签订战略合作协议</a>
+      <span class="sj">2018-06-3</span>
+      <p>宣怀教育与中国科学院中科启仁签订战略合作协议，引入中科院先进的科学课程体系，中科启元郭美仙及宣怀教育副总裁王鹏等出席此次签约仪式。</p>
+      <a href="" class="cd_more1"><span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span></a>
+     </div>
+    </li>
+    <li>
+     <div class="imgk"><a href=""><img src="images/sy_b1.jpg"></a></div>
+     <div class="txtk">
+      <a href="" class="dbt">携手中国科学院幼儿园，宣怀教育与中科启元签订战略合作协议</a>
+      <span class="sj">2018-06-3</span>
+      <p>宣怀教育与中国科学院中科启仁签订战略合作协议，引入中科院先进的科学课程体系，中科启元郭美仙及宣怀教育副总裁王鹏等出席此次签约仪式。</p>
+      <a href="" class="cd_more1"><span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span></a>
+     </div>
+    </li>
+    <li>
+     <div class="imgk"><a href=""><img src="images/sy_b1.jpg"></a></div>
+     <div class="txtk">
+      <a href="" class="dbt">携手中国科学院幼儿园，宣怀教育与中科启元签订战略合作协议</a>
+      <span class="sj">2018-06-3</span>
+      <p>宣怀教育与中国科学院中科启仁签订战略合作协议，引入中科院先进的科学课程体系，中科启元郭美仙及宣怀教育副总裁王鹏等出席此次签约仪式。</p>
+      <a href="" class="cd_more1"><span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span></a>
+     </div>
+    </li>
+    <li>
+     <div class="imgk"><a href=""><img src="images/sy_b1.jpg"></a></div>
+     <div class="txtk">
+      <a href="" class="dbt">携手中国科学院幼儿园，宣怀教育与中科启元签订战略合作协议</a>
+      <span class="sj">2018-06-3</span>
+      <p>宣怀教育与中国科学院中科启仁签订战略合作协议，引入中科院先进的科学课程体系，中科启元郭美仙及宣怀教育副总裁王鹏等出席此次签约仪式。</p>
+      <a href="" class="cd_more1"><span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span></a>
+     </div>
+    </li>
+    <li>
+     <div class="imgk"><a href=""><img src="images/sy_b1.jpg"></a></div>
+     <div class="txtk">
+      <a href="" class="dbt">携手中国科学院幼儿园，宣怀教育与中科启元签订战略合作协议</a>
+      <span class="sj">2018-06-3</span>
+      <p>宣怀教育与中国科学院中科启仁签订战略合作协议，引入中科院先进的科学课程体系，中科启元郭美仙及宣怀教育副总裁王鹏等出席此次签约仪式。</p>
+      <a href="" class="cd_more1"><span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span></a>
+     </div>
+    </li>
+    <li>
+     <div class="imgk"><a href=""><img src="images/sy_b1.jpg"></a></div>
+     <div class="txtk">
+      <a href="" class="dbt">携手中国科学院幼儿园，宣怀教育与中科启元签订战略合作协议</a>
+      <span class="sj">2018-06-3</span>
+      <p>宣怀教育与中国科学院中科启仁签订战略合作协议，引入中科院先进的科学课程体系，中科启元郭美仙及宣怀教育副总裁王鹏等出席此次签约仪式。</p>
+      <a href="" class="cd_more1"><span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span></a>
+     </div>
+    </li>
+    <li>
+     <div class="imgk"><a href=""><img src="images/sy_b1.jpg"></a></div>
+     <div class="txtk">
+      <a href="" class="dbt">携手中国科学院幼儿园，宣怀教育与中科启元签订战略合作协议</a>
+      <span class="sj">2018-06-3</span>
+      <p>宣怀教育与中国科学院中科启仁签订战略合作协议，引入中科院先进的科学课程体系，中科启元郭美仙及宣怀教育副总裁王鹏等出席此次签约仪式。</p>
+      <a href="" class="cd_more1"><span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span></a>
+     </div>
+    </li>
+    <li>
+     <div class="imgk"><a href=""><img src="images/sy_b1.jpg"></a></div>
+     <div class="txtk">
+      <a href="" class="dbt">携手中国科学院幼儿园，宣怀教育与中科启元签订战略合作协议</a>
+      <span class="sj">2018-06-3</span>
+      <p>宣怀教育与中国科学院中科启仁签订战略合作协议，引入中科院先进的科学课程体系，中科启元郭美仙及宣怀教育副总裁王鹏等出席此次签约仪式。</p>
+      <a href="" class="cd_more1"><span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span></a>
+     </div>
+    </li>
+  </ul>   
+  <div class="fy1"><a href="" class="on">1</a><a href="">2</a><a href="">3</a></div>
+  <div class="clear"></div>
+ </div>
+</div>
+
+<div class="footbox" id="footbox"></div>
+</body>
+</html>

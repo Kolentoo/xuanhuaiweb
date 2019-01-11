@@ -1,0 +1,112 @@
+<div class="foot_hz">
+    <div class="main">
+     <div class="swiper-container1 swiper-container">
+        <div class="swiper-wrapper">
+            <div class="swiper-slide"><a class="block tc" href="../cooperate.shtml#zgkxy"><img class="g10" src="images/sy_c1.jpg" ></a>
+            </div>
+            <div class="swiper-slide"><a class="block tc" href="../cooperate.shtml#zgrb"><img class="g10" src="images/sy_c2.jpg" ></a>
+            </div>
+            <div class="swiper-slide"><a class="block tc" href="../cooperate.shtml#Field"><img class="g10" src="images/sy_c3.jpg" ></a>
+            </div>
+            <div class="swiper-slide"><a class="block tc" href="../cooperate.shtml#ggjy"><img class="g10" src="images/sy_c4.jpg" ></a>
+            </div>
+            <div class="swiper-slide"><a class="block tc" href="../cooperate.shtml#zkqy"><img class="g10" src="images/sy_c5.jpg" ></a>
+            </div>
+            <div class="swiper-slide"><a class="block tc" hhref="../cooperate.shtml#sjyy"><img class="g10" src="images/sy_c6.jpg" ></a>
+            </div>
+            <div class="swiper-slide"><a class="block tc" href="../cooperate.shtml#hbkj"><img class="g10" src="images/sy_c7.jpg" ></a>
+            </div>
+        </div>
+      </div>
+      <div class="arrow-left swiper-arrow"></div>
+      <div class="arrow-right swiper-arrow"></div>
+     <div class="clear"></div>
+    </div>
+</div>
+<div class="foot">
+ <div class="main">
+ <div class="d1">
+ Copyright © 2017 北京宣怀教育科技有限公司 | 京ICP备 18055791-1 号<br>
+ <a href="#">免责声明</a> | <a href="#">隐私条款</a>
+ </div>
+ <div class="foot_ewm"><img src="images/ewm2.jpg" /></div>
+ <div class="clear"></div>
+ </div>
+</div>
+</div>
+
+<script>
+
+
+    $(function(){
+
+        var ua = navigator.userAgent;
+
+        var ipad = ua.match(/(iPad).*OS\s([\d_]+)/),
+
+        isIphone =!ipad && ua.match(/(iPhone\sOS)\s([\d_]+)/),
+
+        isAndroid = ua.match(/(Android)\s+([\d.]+)/),
+
+        isMobile = isIphone || isAndroid;
+
+        //判断
+        if($('.swiper-container1').get(0)){
+            if($('.swiper-slide').length<=3){
+                $('.swiper-arrow').addClass('hide');
+            }else{
+                $('.swiper-arrow').removeClass('hide');
+            }
+        
+            if(isMobile){
+                var swiper = new Swiper('.swiper-container1',{
+                    loop:true,
+                    slidesPerView: 3,
+                    autoplay:3000,
+                    calculateHeight:true
+                })
+                $('.swiper-arrow').addClass('hide');
+            }else{
+                var swiper = new Swiper('.swiper-container1',{
+                    loop:true,
+                    slidesPerView: 4,
+                    autoplay:3000,
+                    calculateHeight:true
+                })
+                $('.swiper-arrow').removeClass('hide');
+            }
+
+
+
+            $(window).resize(function() {
+                var window_width = $(window).width();//获取浏览器窗口宽度
+                if(window_width<1000){
+                    var swiper = new Swiper('.swiper-container1',{
+                        loop:true,
+                        slidesPerView: 3,
+                        autoplay:3000,
+                        calculateHeight:true
+                    })
+                }
+            });
+
+
+        }
+
+
+
+
+
+        $('.arrow-left').on('click', function(e){
+            e.preventDefault()
+            swiper.swipePrev();
+        });
+        $('.arrow-right').on('click', function(e){
+            e.preventDefault()
+            swiper.swipeNext();
+        });
+
+
+
+    })
+</script>

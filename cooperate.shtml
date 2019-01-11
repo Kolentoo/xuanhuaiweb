@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>宣怀教育—合作伙伴</title>
+<meta name="description" content="宣怀教育" />
+<meta name="keywords" content="宣怀教育" />
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<!-- Bootstrap -->    
+<link rel="stylesheet" href="css/bootstrap.min.css">
+<link rel="stylesheet" href="css/bootstrap-theme.min.css">
+<link type="text/css" rel="stylesheet" href="css/css.css" />
+<script src="js/jquery.min.js"></script>
+<!-- swiper -->
+<link rel="stylesheet" href="css/idangerous.swiper.css">
+<script src="js/idangerous.swiper.min.js"></script>
+<script src="js/core.js"></script>
+</head>
+<body>
+<div class="head" id="head"></div>
+<div class="ny_ban">
+<img src="images/hz_ban.jpg">
+</div>
+<div class="csl1">
+ <div class="main">
+  <div class="csl_bt1"><i></i>合作伙伴<i></i><h3>打造真正产学研结合的教育生态体系</h3></div>
+  
+  <div class="gy_nr1">
+   学生发展核心素养是在当代适应终身发展和社会发展需要的必备品格和关键能力。<br>
+   宣怀教育希望与学校、家庭和国家共同努力，培养坚持科学、注重时代，主动学习探索，<br>
+   立足国家与民族并具有国际视野、担当社会责任的未来世界公民与青年领袖。</div>
+   
+   <ul class="hz_lb2">
+    <li id="zgrb">
+    <div class="imgk"><img src="images/hz_a1.png" ></div>
+    <div class="txtk">
+     <h2>中国日报社 21世纪英文传媒</h2>
+      <p>《中国日报》创立于1981年,由国务院新闻办（中共中央外宣办）主管，是中国唯一的国家级英文日报,国家六大重点媒体之一，也是目前我国被境外媒体舆论转载最高的媒体。</p>
+    </div>
+    </li>
+    <li id="zgkxy">
+    <div class="imgk"><img src="images/hz_a2.png" ></div>
+    <div class="txtk">
+     <h2>中国科学院中科启仁教育集团</h2>
+     <p>中国科学院（Chinese Academy of Sciences）成立于1949年11月，为中国自然科学最高学术机构、科学技术最高咨询机构、自然科学与高技术综合研究发展中心。</p>
+
+    </div>
+    </li>
+    <li id="Field">
+    <div class="imgk"><img src="images/hz_a3.png" ></div>
+    <div class="txtk">
+     <h2>Fieldwork Education Group</h2>
+     <p>Fieldwork Education  成立于1984年，总部位于伦敦。为全球约100个国家2000所学校提供基于英国早期基础阶段教学标准的课程体系：幼儿园课程（IEYC）；小学课程（IPC）；中学课程（IMYC）；英国早期基础阶段教学标准是当前国内顶级国际学校教学的通行标准，也是当前世界上最好的早期教育体系标准之一。</p>
+    </div>
+    </li>
+    <li id="ggjy">
+    <div class="imgk"><img src="images/hz_a4.png" ></div>
+    <div class="txtk">
+     <h2>光谷教育投资</h2>
+      <p>武汉光谷教育建设投资有限公司于2014年06月06日在武汉东湖新技术开发区登记成立。公司经营范围包括教育投资及资产管理。</p>
+    </div>
+    </li>
+    <li id="sjyy">
+      <div class="imgk"><img src="images/hz_a5.png" ></div>
+      <div class="txtk">
+       <h2>21世纪英语教育传媒</h2>
+        <p>1993年创立，是由中国日报社全资控股的中国最大的英文教育传媒集团。21世纪英语教育传媒出版《二十一世纪学生英文报》中小学系列报刊、《二十一世纪英文报·少儿画刊》和《二十一世纪英语教育》共9份平面媒体，拥有面向中国2亿中小学生的普及性英语学习和资讯周报。在使用和学习英语的广大知识分子、涉外工作者中享有极高的声誉和广泛的影响力。</p>
+      </div>
+    </li>
+    <li id="hbkj">
+      <div class="imgk"><img src="images/hz_a6.png" ></div>
+      <div class="txtk">
+        <h2>湖北省科技投资集团</h2>
+        <p>成自2005年成立以来，按照"政府为主导、市场化运营、企业化管理"的运作管理原则，紧紧围绕 "基础设施建设、战略产业投资、中小企业服务、国有资产运营管理"四大职能定位，已发展成为资产达千亿的湖北最大的国有企业之一。</p>
+      </div>
+    </li>
+    <li id="zkqy">
+      <div class="imgk"><img src="images/hz_a7.png" ></div>
+      <div class="txtk">
+        <h2>中科启元</h2>
+        <p>中国科学院中科启元教育集团由中国科学院全资控股的中国最顶级的儿童科学教育集团。创建了北京排名前三的中关村一、二、三小和排名第一的中国科学院科学幼儿园集团；拥有中国最顶尖的儿童科学教育研究院及师资力量。依托中科院优质科普资源设立"中科启元儿童科学研究院"，同时签约各院所专家深度参与研发出针对3-18岁儿童及青少年的STEAM少儿科学课程。</p>
+      </div>
+    </li>
+   </ul>
+  <div class="clear"></div>
+ </div>
+</div>
+<div class="footbox" id="footbox"></div>
+</body>
+</html>

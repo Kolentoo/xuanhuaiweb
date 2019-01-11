@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>宣怀教育-幼儿园</title>
+<meta name="description" content="宣怀教育" />
+<meta name="keywords" content="宣怀教育" />
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<!-- Bootstrap -->    
+<link rel="stylesheet" href="css/bootstrap.min.css">
+<link rel="stylesheet" href="css/bootstrap-theme.min.css">
+<link type="text/css" rel="stylesheet" href="css/css.css" />
+<script src="js/jquery.min.js"></script>
+<!-- swiper -->
+<link rel="stylesheet" href="css/idangerous.swiper.css">
+<script src="js/idangerous.swiper.min.js"></script>
+<script src="js/core.js"></script>
+</head>
+<body>
+  <div class="head" id="head"></div>
+<div class="ny_ban">
+<img src="images/yey_ban.jpg">
+</div>
+<div class="csl1 ny_news gy_bj1">
+ <div class="main">
+  <div class="csl_bt1"><i></i>国际幼儿园<i></i><h3>在快乐中探索世界文化与科技文明</h3></div>
+  <div class="yey_k1">
+    <div class="d1">
+      <h2 class="h2_1">宣怀国际幼儿园</h2>
+      <p>宣怀国际幼儿园是宣怀教育集团旗下的高端幼儿园。宣怀教育秉承了一份社会责任与教育情怀，以丰富的教学实践经验为基础，联合著名教育集团Fieldwork Education与中国科学院中科启元教育集团，将意大利瑞吉欧教育理念与国际"CSL"课程体系相融合，并将世界多元文化渗透到日常教学生活中，让孩子站在科技时代的前沿，在快乐中探索世界文化与科技文明。</p>
+    </div>
+    <div class="d2">
+      <h2 class="h2_2">瑞吉欧教学理念</h2>
+      <p>宣怀认为孩子的学习不是独立建构的，而是在周边环境以及同伴的相互作用下建构的。宣怀传承举世闻名的瑞吉欧教学理念，以孩子为中心，让其在多元文化的渗透下建构知识、情感和人格。在学习互动的过程中，孩子既是受益者、又是贡献者。</p>
+    
+      <p>我们尊重和欣赏儿童用100种语来表达他们对世界的认识。</p>
+ 
+      <p>We respect and appreciate children using more than 100 different languages to express how they see the world.</p>
+
+      <p>——瑞吉欧教育理念</p>
+    </div>
+  </div>
+  <ul class="yey_lb1">
+   <li>
+     <div class="imgk"><img src="images/yey_b1.png"></div>
+     <div class="txtk">
+      <h2>"CSL"课程体系</h2>
+      <p>宣怀教育认为，一个拥有国际视野、社会担当的未来公民与青年领袖，应当具备更为多元的核心竞争力。而这项竞争力可以用"CSL（Communication表达力、STEAM科创力、Leadership领导力）"来概述。<br>
+        宣怀教育以丰富的实际教学经验，整合海内外优质教育资源，开创了"CSL"课程体系，使其与瑞吉欧理念紧密融合，重新定义了幼儿未来教育的新概念，使孩子能够站在科技时代的前沿。</p>
+     </div>
+   </li>
+   <li class="l1">
+     <div class="imgk"><img src="images/yey_b2.png"></div>
+     <div class="txtk">
+      <h2>课程特色</h2>
+      <p>主题方案教学</p>
+<p>体验式教育</p>
+<p>STEAM科创力课程</p>
+<p>创造性思考能力</p>
+<p>资源管理技能</p>
+<p>表达/交际能力</p>
+<p>领导力</p>
+<p>全球视野</p>
+<p>艺术表达</p>
+     </div>
+   </li>
+   <li class="l2">
+     <div class="imgk"><img src="images/yey_b3.png"></div>
+     <div class="txtk">
+      <h2>宣怀国际幼儿园</h2>
+      <p>所有老师均持有国际双认证执教资格</p>
+    <p>世界领先教育集团Fieldwork Education英国早期教育课程体系专家的学术合作支持</p>
+    <p>中国科学院中科启元教育集团顶尖的STEAM儿童科学启蒙课程合作支持</p>
+    <p>世界TOP10教育学专业背景及本土与海外幼儿教学经验的博士顾问团队</p>
+    <p>国内外一线儿童教育专家组成的教研团队</p>
+     </div>
+   </li>
+   <li class="l2">
+     <div class="imgk"><img src="images/yey_b4.jpg"></div>
+     <div class="txtk">
+      <h2>万无一失</h2>
+      <p>您孩子的安全，是宣怀的头等大事！ </p>
+    <p>硬件安全：所有场所与区角都经过专业规划；消防、卫生、物理安全设施以及隐蔽工程都远超国家幼儿园安全标准。</p>
+    <p>食品安全：宣怀联合国际幼儿餐饮专供的索迪斯企业共同研制儿童营养方案，饮食都经过严格的筛选与科学的调配。</p>
+    <p>人生安全：保安保育经过专业培训，持证上岗，校车全方位科技定位，确保孩子万无一失。</p>
+
+     </div>
+   </li>
+  </ul>
+  <div class="clear"></div>
+ </div>
+</div>
+<div class="yey3 kid">
+ <div class="main">
+  <div class="yey_bt2">预约参观</div>
+  <div class="imgk">
+    <div class="swiper-container swiper-container2">
+        <div class="swiper-wrapper">
+            <div class="swiper-slide">
+                <img src="images/yey_b5.png">
+            </div>
+            <div class="swiper-slide">
+                <img src="images/yey_b6.jpg">
+            </div>
+            <div class="swiper-slide">
+                <img src="images/yey_b7.jpg">
+            </div>
+            <div class="swiper-slide">
+                <img src="images/yey_b8.jpg">
+            </div>
+        </div>
+        <div class="pagination"></div>
+      </div>
+      
+  </div>
+  <ul class="fo1">
+   <li class="l3"><span class="s1">姓名<i class="must">*</i></span><input type="text" class="form-control tx1" placeholder=""></li>
+   <li class="l4"><span class="s1">电话<i class="must">*</i></span><input type="text" class="form-control tx1" placeholder=""></li>
+   <li class="l3"><span class="s1">您所在城市<i class="must">*</i></span><input type="text" class="form-control tx1" placeholder=""></li>
+   <li class="l4"><span class="s1">您孩子的年龄<i class="must">*</i></span><input type="text" class="form-control tx1" placeholder=""></li>
+   <li><span class="s1">留言<i class="must">*</i></span>
+     <textarea class="form-control tx2" placeholder=""></textarea>
+   </li>
+   <li ><input name="" type="button" value="预约参观" class="an_lan"></li>
+  </ul>
+  <div class="clear"></div>
+ </div>
+</div>
+<div class="csl1 csl_bj1">
+ <div class="main">
+   <div class="yey_lx">
+    <div class="d1">
+      <div class="yey_bt2">加入我们</div>
+      <div class="txtk">与早期儿童教育的世界领先教研人员共同工作；<br>
+        健康愉快的工作环境和体恤员工的领导；<br>
+        国际化的教学学习环境;<br>
+        拥有国际教学团队及高质量的教学资源。</div>
+        <div class="clear"></div>
+        <a href="" class="cd_an_r">查看职位</a>
+    </div>
+    <div class="d2">
+      <div class="yey_bt2">联系我们</div>
+      <div class="txtk">
+        宣怀国际幼儿园·武汉光谷园<br>
+        地址:中国·光谷 武汉市洪山区关山一路特1号光谷软件园C6栋<br>
+        宣怀教育总部<br>
+        地址：上海市长宁区愚园路753弄 嘉春园753 E栋10楼&4楼
+      </div>
+
+        <div class="clear"></div>
+        <span class="s_an_r"><img src="images/gy_tel.png">400-765-1616</span>
+    </div>
+   </div>
+  <div class="clear"></div>
+ </div>
+</div>
+<div class="footbox" id="footbox"></div>
+</body>
+</html>

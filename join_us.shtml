@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>宣怀教育-加入我们</title>
+<meta name="description" content="宣怀教育" />
+<meta name="keywords" content="宣怀教育" />
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<!-- Bootstrap -->    
+<link rel="stylesheet" href="css/bootstrap.min.css">
+<link rel="stylesheet" href="css/bootstrap-theme.min.css">
+<link type="text/css" rel="stylesheet" href="css/css.css" />
+<script src="js/jquery.min.js"></script>
+<!-- swiper -->
+<link rel="stylesheet" href="css/idangerous.swiper.css">
+<script src="js/idangerous.swiper.min.js"></script>
+<script src="js/core.js"></script>
+</head>
+<body>
+<div class="head" id="head"></div>
+<div class="ny_ban">
+<img src="images/jr_ban.jpg">
+</div>
+<div class="csl1 ny_news xw_bj ">
+ <div class="main">
+  <div class="csl_bt1"><i></i>加入我们<i></i><h3>诚实守信  团队协作  追求极致  超越期望</h3></div>
+  <div class="csl_nr1">宣怀尊重人才、爱惜人才、善待人才，将员工视为企业最宝贵的财富，以独有的人才观吸纳、<br>培养着具有积极进取精神和强大现场力的可持续发展人才。</div>
+  <div class="jr_k">
+   <div class="jo_bt">北京</div>
+   <ul class="jo_lb">
+    <li>
+      <h2>财务经理<i></i></h2>
+      <div class="txtkbox clearfix">
+        <div class="txtk">
+            <div class="txtk_f"><span class="s1">统招本科</span><span class="s1">5年以上</span><span class="s1">语言不限</span><span class="s1">年龄不限</span></div>
+          <p>职位描述：</p>
+          <p>岗位职责RESPONSIBILITY:<br>
+      1、认真贯彻执行国家规定的会计法、会计准则和财务制度，认真实施和执行公司内部制定的财务、会计制度和工作程序；<br>
+      2、负责正确选择会计核算程序，在财务系统中正确设置会计科目和会计账簿，经公司批准后实施和执行；<br>
+      3、负责领导公司日常账务处理，负责按月编制各项财务报表，负责编制年度决算、年度预算和定期预测，并按要求及时上报；<br>
+      4、负责依据公司项目预算审核项目的支出，根据预算控制成本，负责正确核算项目的各项收入、成本、费用；对财务状况和相关差异做出清晰、简明扼要的解释和说明；<br>
+      5、负责审核公司内部付款申请、费用报销及原始凭证，及时在财务系统中进行会计凭证的录入，整理和保管财务会计档案，登记保管各类明细账、总分类账；<br>
+      6、合同管理，负责编制公司合同号码，根据财务要求编制合同台账、合同执行情况、合同付款计划完成情况等报告；<br>
+      7、根据公司预算配合有关部门制定资金使用计划，加强对流动资金、费用支出的管理，提出减少不经济支出的合理化建议；<br>
+      8、根据公司要求负责按月编报财务综合分析报告和专题分析报告，为公司领导决策提供可靠的依据；<br>
+      9、负责领导按月、季、年报送国税以及统计部门相关报表，负责财务证照的年检和更新；<br>
+      10、在公司领导同意的前提下，配合审计、税务、财政、统计、银行等部门的工作，对外提供公司财务资料；<br>
+      11、负责公司财务部内部、财务部与公司其他部门、财务部与外部有关单位、个人的账务核对工作，保证账簿记录与实物、 款项相符；<br>
+      12、负责公司领导交办的其他财务工作。</p>
+    <p>任职要求REQUIREMENTS：<br>
+      1、具有国家认可的会计师（中级）或以上职称，具有注册会计师等专业资格者优先；<br>
+      2、具备全面的财务专业知识、账务处理及财务分析经验；<br>
+      3、具有五年以上教育行业财务管理岗位实际工作经验，熟悉行业相关各项财务、审计、税务、统计、金融等法律法规；<br>
+      4、为人诚实、正直，严守职业道德，工作态度严谨，</p>
+    <p>能力要求COMPETENCE:<br>
+      1、极强的人际沟通能力<br>
+      2、极强的学习能力<br>
+      3、有责任心，抗压性强，具有团队协作意识。<br>
+      4、较强的成本管理、风险控制和数据分析的能力；<br>
+      5、熟练使用财务软件，熟练运用计算机及相关办公软件。</p>
+    <p>教育背景EDUCATION:<br>
+      具有财务专业本科及以上学历</p>
+        
+        </div>
+        <a href="" class="block sendmail cd_an_r hide">发送简历<span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span></a>
+      </div>
+    </li>
+    <li>
+        <h2>财务经理<i></i></h2>
+        <div class="txtkbox clearfix">
+          <div class="txtk">
+              <div class="txtk_f"><span class="s1">统招本科</span><span class="s1">5年以上</span><span class="s1">语言不限</span><span class="s1">年龄不限</span></div>
+            <p>职位描述：</p>
+            <p>岗位职责RESPONSIBILITY:<br>
+        1、认真贯彻执行国家规定的会计法、会计准则和财务制度，认真实施和执行公司内部制定的财务、会计制度和工作程序；<br>
+        2、负责正确选择会计核算程序，在财务系统中正确设置会计科目和会计账簿，经公司批准后实施和执行；<br>
+        3、负责领导公司日常账务处理，负责按月编制各项财务报表，负责编制年度决算、年度预算和定期预测，并按要求及时上报；<br>
+        4、负责依据公司项目预算审核项目的支出，根据预算控制成本，负责正确核算项目的各项收入、成本、费用；对财务状况和相关差异做出清晰、简明扼要的解释和说明；<br>
+        5、负责审核公司内部付款申请、费用报销及原始凭证，及时在财务系统中进行会计凭证的录入，整理和保管财务会计档案，登记保管各类明细账、总分类账；<br>
+        6、合同管理，负责编制公司合同号码，根据财务要求编制合同台账、合同执行情况、合同付款计划完成情况等报告；<br>
+        7、根据公司预算配合有关部门制定资金使用计划，加强对流动资金、费用支出的管理，提出减少不经济支出的合理化建议；<br>
+        8、根据公司要求负责按月编报财务综合分析报告和专题分析报告，为公司领导决策提供可靠的依据；<br>
+        9、负责领导按月、季、年报送国税以及统计部门相关报表，负责财务证照的年检和更新；<br>
+        10、在公司领导同意的前提下，配合审计、税务、财政、统计、银行等部门的工作，对外提供公司财务资料；<br>
+        11、负责公司财务部内部、财务部与公司其他部门、财务部与外部有关单位、个人的账务核对工作，保证账簿记录与实物、 款项相符；<br>
+        12、负责公司领导交办的其他财务工作。</p>
+      <p>任职要求REQUIREMENTS：<br>
+        1、具有国家认可的会计师（中级）或以上职称，具有注册会计师等专业资格者优先；<br>
+        2、具备全面的财务专业知识、账务处理及财务分析经验；<br>
+        3、具有五年以上教育行业财务管理岗位实际工作经验，熟悉行业相关各项财务、审计、税务、统计、金融等法律法规；<br>
+        4、为人诚实、正直，严守职业道德，工作态度严谨，</p>
+      <p>能力要求COMPETENCE:<br>
+        1、极强的人际沟通能力<br>
+        2、极强的学习能力<br>
+        3、有责任心，抗压性强，具有团队协作意识。<br>
+        4、较强的成本管理、风险控制和数据分析的能力；<br>
+        5、熟练使用财务软件，熟练运用计算机及相关办公软件。</p>
+      <p>教育背景EDUCATION:<br>
+        具有财务专业本科及以上学历</p>
+          
+          </div>
+          <a href="" class="block sendmail cd_an_r hide">发送简历<span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span></a>
+        </div>
+      </li>
+   </ul>
+   <div class="jo_bt">南京</div>
+   <ul class="jo_lb">
+      <li>
+          <h2>财务经理<i></i></h2>
+          <div class="txtkbox clearfix">
+            <div class="txtk">
+                <div class="txtk_f"><span class="s1">统招本科</span><span class="s1">5年以上</span><span class="s1">语言不限</span><span class="s1">年龄不限</span></div>
+              <p>职位描述：</p>
+              <p>岗位职责RESPONSIBILITY:<br>
+          1、认真贯彻执行国家规定的会计法、会计准则和财务制度，认真实施和执行公司内部制定的财务、会计制度和工作程序；<br>
+          2、负责正确选择会计核算程序，在财务系统中正确设置会计科目和会计账簿，经公司批准后实施和执行；<br>
+          3、负责领导公司日常账务处理，负责按月编制各项财务报表，负责编制年度决算、年度预算和定期预测，并按要求及时上报；<br>
+          4、负责依据公司项目预算审核项目的支出，根据预算控制成本，负责正确核算项目的各项收入、成本、费用；对财务状况和相关差异做出清晰、简明扼要的解释和说明；<br>
+          5、负责审核公司内部付款申请、费用报销及原始凭证，及时在财务系统中进行会计凭证的录入，整理和保管财务会计档案，登记保管各类明细账、总分类账；<br>
+          6、合同管理，负责编制公司合同号码，根据财务要求编制合同台账、合同执行情况、合同付款计划完成情况等报告；<br>
+          7、根据公司预算配合有关部门制定资金使用计划，加强对流动资金、费用支出的管理，提出减少不经济支出的合理化建议；<br>
+          8、根据公司要求负责按月编报财务综合分析报告和专题分析报告，为公司领导决策提供可靠的依据；<br>
+          9、负责领导按月、季、年报送国税以及统计部门相关报表，负责财务证照的年检和更新；<br>
+          10、在公司领导同意的前提下，配合审计、税务、财政、统计、银行等部门的工作，对外提供公司财务资料；<br>
+          11、负责公司财务部内部、财务部与公司其他部门、财务部与外部有关单位、个人的账务核对工作，保证账簿记录与实物、 款项相符；<br>
+          12、负责公司领导交办的其他财务工作。</p>
+        <p>任职要求REQUIREMENTS：<br>
+          1、具有国家认可的会计师（中级）或以上职称，具有注册会计师等专业资格者优先；<br>
+          2、具备全面的财务专业知识、账务处理及财务分析经验；<br>
+          3、具有五年以上教育行业财务管理岗位实际工作经验，熟悉行业相关各项财务、审计、税务、统计、金融等法律法规；<br>
+          4、为人诚实、正直，严守职业道德，工作态度严谨，</p>
+        <p>能力要求COMPETENCE:<br>
+          1、极强的人际沟通能力<br>
+          2、极强的学习能力<br>
+          3、有责任心，抗压性强，具有团队协作意识。<br>
+          4、较强的成本管理、风险控制和数据分析的能力；<br>
+          5、熟练使用财务软件，熟练运用计算机及相关办公软件。</p>
+        <p>教育背景EDUCATION:<br>
+          具有财务专业本科及以上学历</p>
+            
+            </div>
+            <a href="" class="block sendmail cd_an_r hide">发送简历<span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span></a>
+          </div>
+        </li>
+   </ul>
+  </div>
+  <div class="clear"></div>
+ </div>
+</div>
+
+<div class="footbox" id="footbox"></div>
+<script>
+  $(function(){
+    $(".jo_lb li h2").click(function(){
+		  $(this).toggleClass("on");
+      $(this).parent().find(".txtk").slideToggle();
+      $(this).parent().find('.sendmail').toggleClass('hide');
+		});	
+  })
+</script>
+</body>
+</html>

@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>宣怀教育-关于我们</title>
+<meta name="description" content="宣怀教育" />
+<meta name="keywords" content="宣怀教育" />
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<!-- Bootstrap -->    
+<link rel="stylesheet" href="css/bootstrap.min.css">
+<link rel="stylesheet" href="css/bootstrap-theme.min.css">
+<link type="text/css" rel="stylesheet" href="css/css.css" />
+<script src="js/jquery.min.js"></script>
+<!-- swiper -->
+<link rel="stylesheet" href="css/idangerous.swiper.css">
+<script src="js/idangerous.swiper.min.js"></script>
+<script src="js/core.js"></script>
+</head>
+<body>
+<div class="head" id="head"></div>
+<div class="ny_ban">
+<img src="images/gy_ban.jpg">
+</div>
+<div class="csl1">
+ <div class="main">
+  <div class="csl_bt1"><i></i>关于我们<i></i><h3>培养科技时代核心素养世界公民</h3></div>
+  
+  <div class="gy_nr1">
+   学生发展核心素养是在当代适应终身发展和社会发展需要的必备品格和关键能力。<br>
+   宣怀教育希望与学校、家庭和国家共同努力，培养坚持科学、注重时代，主动学习探索，<br>
+   立足国家与民族并具有国际视野、担当社会责任的未来世界公民与青年领袖。</div>
+  <div class="clear"></div>
+ </div>
+</div>
+<div class="csl1 bj_d">
+ <div class="main">  
+  <div class="gy_nr2">
+    <div class="imgk"><img src="images/logo2.png" ></div>
+    <div class="txtk">
+      <p class="zt_lan p16">&quot;宣怀&quot;二字源自&quot;中国高等教育之父&quot; —— 盛宣怀之名。</p>
+      <p class=""><br></p>
+      <p class="moretxt">盛宣怀先生（1844-1916）创造了11项&quot;中国第一&quot;。其中包括第一所高等师范学堂南洋公学（今交通大学）以及第一所近代大学北洋大学堂（今天津大学），同时还创办了诸多中国近现代工商产业及中国红十字会，堪称中国历史上实现产业与教育联动的第一人。</p>
+      <p><br></p>
+      <p class="moretxt">在今天，宣怀教育秉承盛宣怀先生精神，以人为本，从产业出发促进教育发展，从教育出发推动产业前进。为中国教育事业的发展与进步尽一己之力。</p>
+    </div>
+   </div>
+  <div class="clear"></div>
+ </div>
+</div>
+<div class="csl1">
+ <div class="main">
+  <ul class="gy_lb1">
+   <li class="l1">
+    <div class="imgk"><h2>宣怀成立</h2><p>创立于2011年，致力于以国际科创力教育为核心的教育研发、咨询和运营管理。</p></div>
+    <div class="txtk">宣怀教育以"培养科技时代具有核心素养的世界公民"为使命，围绕CSL(Communication 表达力、STEAM 科创力、Leadership 领导力)国际科创力课程体系，打造培养核心素养的宣怀国际幼儿园、宣怀国际学校、宣怀国际菁英学习中心和宣怀教育联盟等。</div>
+   </li>
+   <li class="l2">
+    <div class="imgk"><h2>宣怀使命</h2><p>培养科技时代具有核心素养的世界公民</p></div>
+    <div class="txtk">培养适应终身发展和社会发展需要的必备品格和关键能力是教育的使命。<br>
+宣怀教育致力于与学校、家庭和社群共同奋斗，培养坚持科学、注重时代，主动学习探索，立足国家与民族并具有国际视野、担当社会责任的未来世界公民与青年领袖。</div>
+   </li>
+   <li class="l3">
+    <div class="imgk"><h2>宣怀愿景</h2><p>开启中国教育产业科技创新时代</p></div>
+    <div class="txtk">宣怀教育首创CSL国际科创力教育理念，在学科知识的基础上建立全面的核心素养课程和科创教育方式，贯穿整个教育产品研发与项目建设，从产业出发促进教育发展，从教育出发推动产业前进，以积极开放的合作理念与企业、政府、社会一起为建设未来教育强国共同奋进。</div>
+   </li>
+  </ul>
+  <div class="clear"></div>
+ </div>
+</div>
+<div class="csl1 bj_d">
+ <div class="main">
+  <div class="csl_bt1">宣怀国际</div>
+  
+  <div class="gy_nr1">
+    <img src="images/gy_c1.png" ></div>
+  <div class="clear"></div>
+ </div>
+</div>
+<div class="csl1 gy_bj1 hide">
+ <div class="main">
+  <div class="gy_lx"><span><img src="images/gy_mail.png" >service@hsuanhuai.com</span><span><img src="images/gy_tel.png" >400-765-1616</span></div>
+  <div class="clear"></div>
+ </div>
+</div>
+<div class="footbox" id="footbox"></div>
+</body>
+</html>

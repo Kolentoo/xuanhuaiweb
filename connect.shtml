@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>宣怀教育-联系我们</title>
+<meta name="description" content="宣怀教育" />
+<meta name="keywords" content="宣怀教育" />
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<!-- Bootstrap -->    
+<link rel="stylesheet" href="css/bootstrap.min.css">
+<link rel="stylesheet" href="css/bootstrap-theme.min.css">
+<link type="text/css" rel="stylesheet" href="css/css.css" />
+<script src="js/jquery.min.js"></script>
+<!-- swiper -->
+<link rel="stylesheet" href="css/idangerous.swiper.css">
+<script src="js/idangerous.swiper.min.js"></script>
+<script src="js/core.js"></script>
+</head>
+<body>
+<div class="head" id="head"></div>
+<div class="ny_ban">
+<img src="images/lx_ban.jpg">
+</div>
+<div class="csl1 ny_news ">
+ <div class="main">
+  <div class="csl_bt1">
+    <i></i>联系我们<i></i>
+    <h3>您可以通过如下地址和电话联系我们</h3>
+    <a href="tel:4007651616" class="phonenum">400-765-1616</a>
+  </div>
+  <div class="lx_k">
+   	<ul class="lx_lb">
+    <li>
+     <h2>北京总部</h2>
+     <p>北京市朝阳区建国门外大街1号院国贸三期A座1501</p>
+     <p>010-57372655</p>
+    </li>
+    <li>
+     <h2>上海总部</h2>
+     <p>上海市长宁区愚园路753弄 嘉春园753 E栋10楼&4楼</p>
+     <p>021-52660593</p>
+    </li>
+    <li>
+     <h2>南京分公司</h2>
+     <p>南京市玄武区中山路268号汇杰广场1701室</p>
+     <p>025-58821731</p>
+    </li>
+    <li>
+     <h2>武汉分公司</h2>
+     <p>湖北省武汉市洪山区关山一路特1号光谷软件园A8栋415 </p>
+     <p>027-87885080</p>
+    </li>
+   </ul>
+   <ul class="fo1">
+    <li class="titletxt">填写以下信息，我们将尽快与您联系</li>
+   <li><span class="s1">姓名<i class="must">*</i></span><input type="text" class="form-control tx1" placeholder=""></li>
+   <li><span class="s1">电话<i class="must">*</i></span><input type="text" class="form-control tx1" placeholder=""></li>
+   <li><span class="s1">邮箱<i class="must">*</i></span><input type="text" class="form-control tx1" placeholder=""></li>
+   <li><span class="s1">留言<i class="must">*</i></span>
+     <textarea class="form-control tx2" placeholder=""></textarea>
+   </li>
+   <li ><input name="" type="button" value="提 交" class="an_lan"></li>
+  </ul>
+  </div>
+  <div class="lx_tel hide"><a href="" class="cd_more1">contact@hsuanhuai.com</a></div>
+  <div class="clear"></div>
+ </div>
+</div>
+
+<div class="footbox" id="footbox"></div>
+</body>
+</html>

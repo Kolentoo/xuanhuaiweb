@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>宣怀教育-教育研究</title>
+<meta name="description" content="宣怀教育" />
+<meta name="keywords" content="宣怀教育" />
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<!-- Bootstrap -->    
+<link rel="stylesheet" href="css/bootstrap.min.css">
+<link rel="stylesheet" href="css/bootstrap-theme.min.css">
+<link type="text/css" rel="stylesheet" href="css/css.css" />
+<script src="js/jquery.min.js"></script>
+<!-- swiper -->
+<link rel="stylesheet" href="css/idangerous.swiper.css">
+<script src="js/idangerous.swiper.min.js"></script>
+<script src="js/core.js"></script>
+</head>
+<body>
+<div class="head" id="head"></div>
+<div class="ny_ban">
+<img src="images/yj_ban.jpg">
+</div>
+<div class="csl1 ny_news">
+ <div class="main">
+  <div class="csl_bt1"><i></i>教育研究<i></i><h3>让孩子站在科技时代的前沿</h3></div>
+  <div class="csl_nr1" style="margin:0;">拥有中国灵魂、国际视野、社会担当的未来世界公民与青年领袖，应当具备更丰富多元的竞争力。</div>
+  
+  <div class="clear"></div>
+ </div>
+</div>
+<div class="csl1 bj_d">
+ <div class="main">
+   <div class="yj_nr1">
+    <div class="imgk"><img src="images/yj_a1.png"></div>
+    <div class="txtk">
+     <p>在语言、性格、智商发展的关键时期，孩子自我发展的动力相对较强，更需要多点触碰，以及大量的正向刺激来帮助儿童进行自我构建。在这个阶段进行学科教育、素质教育，将对其个体的智力和非智力因素发展带来的积极影响，成就孩子的底层逻辑，比其他任何时期的教育都更加巨大和深远。</p>
+     <p><br></p>
+<p>宣怀教育基于独创CSL教育体系，针对中国学生，培养适应全球化人才的终身发展和社会发展需要的必备品格和关键能力。</p>
+    </div>
+   </div>
+  <div class="clear"></div>
+ </div>
+</div>
+
+<div class="csl1">
+ <div class="main">
+  <div class="yey_bt2">结合国内外优质教育资源</div>
+  <ul class="jy_lb1">
+   <li ><img src="images/yj_b1.png"></li>
+   <li ><img src="images/yj_b2.png"></li>
+   <li ><img src="images/yj_b3.png"></li>
+  </ul>
+  <div class="clear"></div>
+ </div>
+</div>
+
+<div class="csl1 bj_d">
+ <div class="main">
+  <div class="yey_bt2">打造能力提升实践平台</div>
+  <ul class="jy_lb2">
+   <li >
+   <a href=""><div class="imgk"><img src="images/yj_c1.png"></div><p>国内外知名赛事</p></a></li>
+   <li >
+   <a href=""><div class="imgk"><img src="images/yj_c2.png"></div><p>特色游学</p></a></li>
+  </ul>
+  <div class="clear"></div>
+ </div>
+</div>
+
+<div class="csl1">
+ <div class="main">
+  <div class="csl_bt1"><i></i>核心课程体系<i></i></div>
+  <ul class="jy_lb4">
+  <li >
+   <a href="">
+     <div class="imgk"><img src="images/yj_d1.png"></div>
+     <div class="txtk">
+      <b>全球化表达课程</b>
+      <p>以培养孩子自信的公众演讲能力为目标，从语
+言知识到能力全方位锻炼孩子的英语发音、遣
+词造句、沟通表达以及批判性思维的综合能力。</p>
+     </div>
+    </a>
+  </li>
+  <li>
+   <a href="">
+     <div class="imgk"><img src="images/yj_d2.png"></div>
+     <div class="txtk">
+      <b>科技化创新课程</b>
+      <p>培养孩子发现问题、解决问题的能力，与团队合作，分享创新的精神。</p>
+     </div>
+    </a>
+  </li>
+  <li>
+   <a href="">
+     <div class="imgk"><img src="images/yj_d3.png"></div>
+     <div class="txtk">
+      <b>精英化领袖课程</b>
+      <p>通过思维训练、身体素质、项目管理、社会公益等训练和培育、开发孩子情商、逻辑思考能力、表达能力和团队写作能力等，为孩子成长发展和发现自身领导优势或潜能。</p>
+     </div>
+    </a>
+  </li>
+ </ul>
+  <div class="clear"></div>
+ </div>
+</div>
+<div class="csl1 bj_d">
+ <div class="main">
+   <div class="yj_nr1 yj_nr2">
+    <div class="imgk"><img src="images/yj_e1.jpg"></div>
+    <div class="txtk">
+     <h2>宣怀教育研究院</h2>
+     <p>宣怀教育研究院成立于2011年，隶属于宣怀教育集团。</p>
+     <p><br></p>
+<p>成立七年以来，宣怀教育研究院一直坚持以"培养科技时代具有核心素养的世界公民"为使命，致力CSL教育科研工作，并集结了教育界的国内外顶级教育专家，通过在多年的教学实践中"发现问题、解决问题、总结经验"，源源不断的为家长、老师和广大教育工作者提供科学的教育理论和教学方法。</p>
+<p><br></p>
+<p>宣怀教育研究院下辖"幼儿（学前）教育研究院"、"CSL研究院"、"国际学校研究院""教育管理研究院""家长学院"。</p>
+
+    </div>
+   </div>
+  <div class="clear"></div>
+ </div>
+</div>
+<div class="csl1">
+ <div class="main">
+   <div class="yj_nr3">
+   <img src="images/yj_f1.png">
+   </div>
+  <div class="clear"></div>
+ </div>
+</div>
+<div class="footbox" id="footbox"></div>
+</body>
+</html>

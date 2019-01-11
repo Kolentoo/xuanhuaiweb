@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>宣怀教育-CSL体系</title>
+<meta name="description" content="宣怀教育" />
+<meta name="keywords" content="宣怀教育" />
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<!-- Bootstrap -->    
+<link rel="stylesheet" href="css/bootstrap.min.css">
+<link rel="stylesheet" href="css/bootstrap-theme.min.css">
+<link type="text/css" rel="stylesheet" href="css/css.css" />
+<script src="js/jquery.min.js"></script>
+<!-- swiper -->
+<link rel="stylesheet" href="css/idangerous.swiper.css">
+<script src="js/idangerous.swiper.min.js"></script>
+<script src="js/core.js"></script>
+<body>
+<div class="head" id="head"></div>
+<div class="ny_ban">
+<img src="images/csl_ban.jpg">
+</div>
+<div class="csl1">
+ <div class="main">
+  <div class="csl_bt1"><i></i>CSL教育体系<i></i></div>
+  <ul class="csl_lb1">
+   <li class="l1">
+    <div class="imgk"><h2>未来为孩子而来</h2><p>为未来而学，为未知而教</p></div>
+    <div class="txtk"><p>如果我们不去思考，就不会发现，今天是人类历史上变化最快的时候！我们面对的不仅是日新月异的科技发展，或是创新不止的时尚潮流，更是意想不到的未知未来。我们勉强跟上时代，而时代又要加速！</p>
+<p>所幸，我们有一个群体，他们思维敏捷、观念灵活，学习力、适应力极强，他们就是我们的孩子，而他们所要面对的未来，是人类历史上"知识最爆炸，变化最快速"的时代，原来，未来在等他们长大，未来为他们而来！而他们，准备好了吗？</p></div>
+   </li>
+   <li class="l2">
+    <div class="imgk"><h2>"CSL"联结未来的钥匙</h2><p>Communication表达力、STEAM科创力、Leadership领导力</p></div>
+    <div class="txtk"><p>宣怀教育认为，一个拥有国际视野、社会担当的未来公民与青年领袖，应当具备更为多元的核心竞争力。而这项竞争力可以用"CSL（Communication表达力、STEAM科创力、Leadership领导力）"来概述。</p>
+<p>宣怀教育以丰富的实际教学经验，整合海内外优质教育资源，提出了"CSL"教学理念，称之为"联结未来的钥匙"，它重新定义了未来菁英的核心素养，开创了未来教育新概念。</p></div>
+   </li>
+  </ul>
+  
+  <div class="clear"></div>
+ </div>
+</div>
+<div class="csl1 bj_d">
+ <div class="main">
+  <div class="csl_bt1 bt_d"><i></i>Communication  表达力课程体系<i></i><p>让世界聆听的声音</p></div>
+  <div class="csl_nr1">
+   在未来，一块金子不一定能发光，它还需要向外界发出声音！
+   这种向外界发出声音的能力，我们称之为&quot;表达力&quot;。<br>表达力是一个人最重要的脸谱和指纹，而表达能力的优劣又是衡定一个人成就才能高下的主要尺度，它代表着不同的世界观和价值观。<br>
+   经过研究，宣怀教育提炼出三项技能，形成整套教学体系来进行表达力的学习与训练。</div>
+  <ul class="csl_lb2">
+   <li>
+    <div class="imgk"><img src="images/csl_a1.jpg"></div>
+    <div class="txtk">
+    <h2>沟通</h2>
+    <p>强化"听说读写"四项基本语言技能，针对国际权威口语考试（英语） "流利度、词汇量、准确性、清晰度"四大核心考察点提供全面专业的解决方案。</p></div>
+   </li>
+   <li>
+    <div class="imgk"><img src="images/csl_a2.jpg"></div>
+    <div class="txtk">
+    <h2>思辨</h2>
+    <p>从内容的深度与广度；语言的组织性与准确性；逻辑的推理性与条理性；辩证思维的全面性与客观性等多种角度出发，全面培养12项思辨技能：阐释、反思、评价、推断、应用、提问、分析、合成、逻辑、联想、预测、创造等12项能力。</p></div>
+   </li>
+   <li>
+    <div class="imgk"><img src="images/csl_a3.jpg"></div>
+    <div class="txtk">
+    <h2>表达</h2>
+    <p>以公共演讲权威理论体系古罗马西塞罗（cicero）演讲体系为基石，揭示斐然成章、字字珠玑的秘诀，使孩子全面掌控5大演讲技能：内容构思、逻辑架构、语言修辞、表现传达和记忆储存。</p></div>
+   </li>
+  
+  </ul>
+  <div class="csl_nr2">
+   <h2>表达力的未来成就</h2>
+    <ul class="csl_lb3">
+     <li><img src="images/csl_b1.png"><p>成绩提升</p></li>
+     <li><img src="images/csl_b2.png"><p>外交专家</p></li>
+     <li><img src="images/csl_b3.png"><p>管理精英</p></li>
+     <li><img src="images/csl_b4.png"><p>演讲大师</p></li>
+     <li><img src="images/csl_b5.png"><p>雄辩之才</p></li>
+     <li><img src="images/csl_b6.png"><p>生活达人</p></li>
+    </ul>
+  </div>
+  <div class="clear"></div>
+ </div>
+</div>
+<div class="csl1">
+ <div class="main">
+  <div class="csl_bt1 bt_d"><i></i>STEAM 科创力<i></i><p>发明世界的能力</p></div>
+  <div class="csl_nr1">&quot;成功者将是那些发明世界的人！&quot; 未来需要发明世界的人，时代快，我们就更快！<br>
+    STEAM教育不只是对科学 技术 工程 艺术(人文) 数学五大领域进行简单的知识传授，而是利用跨学科项目制(PBL)的方式强化下一代公民对科技的认知过程，提升他们的科技素养，帮助他们更好地应对智能时代的变革和挑战。
+  </div>
+  <div class="csl_nr2 csl_kcl3 hide">
+  <div class="csl_bt1">STEAM<sup>STEAM</sup></div>
+   <div class="csl_znr2">
+    <div class="txtk">
+     <p class="p_1" style="color:#000;">宣怀教育认为，学习STEAM的最佳方式就是STEAM！用STEAM的理念来学习STEAM，这种融合的教学思维，会让不同领域的课程在教学上创意无限，我们称之为"<font class="zt_r">STEAM<sup>STEAM</sup></font>"，也叫宣怀STEAM双芯片驱动，让你孩子站在科技时代的前沿！</p>
+     <p><br></p>
+     <p class="zt_lan p_1">宣怀STEAM芯片一：STEAM</p>
+     <p>宣怀教育STEAM课程主体，跨学科课程体系，包含编程课程、智能物联、设计思维、数学思维。</p>
+     <p><br></p>
+     <p class="zt_lan p_1">宣怀STEAM芯片二：指数STEAM</p>
+     <p>宣怀STEAM核心学习方式，采用跨学科知识融合的方式来进行跨学科的STEAM学习。</p>
+     <p><br></p>
+     <p class="zt_lan p_1">项目制（PBL）教学</p>
+     <p>宣怀STEAM的学习采用项目制（Project Based Learning），以学生为中心设计执行项目来进行教学活动，从而促进学生的学习效果。在一定的时间内，学生选择、计划、提出一个项目构思，通过展示等多种形式解决实际问题。通过这种与现实相结合的实践方式，使学生更有效率地掌握学科知识，并在此过程中培养学生的社会情感技能。</p>
+    </div>
+    <div class="imgk"><img src="images/csl_c2.png" ></div>
+   </div>
+  </div>
+  <div class="csl_nr2 csl_kcl3">
+   <h2>宣怀STEAM课程设置时光轴</h2>
+   <div class="csl_znr1"><img src="images/csl_c3.png" ></div>
+  </div>
+ <div class="csl_nr2 csl_kcl3">
+   <h2>STEAM教学的四大特征</h2>
+    <ul class="csl_lb3">
+     <li><img src="images/csl_d1.png"><p><strong>教师角色：</strong><span class="s1">支架式教学引导</span></p></li>
+     <li><img src="images/csl_d2.png"><p><strong>学习方法：</strong><span class="s1">项目制学习途径</span></p></li>
+     <li><img src="images/csl_d3.png"><p><strong>学习环境：</strong><span class="s1">团队探究模式</span></p></li>
+     <li><img src="images/csl_d4.png"><p><strong>学习内容：</strong><span class="s1">跨学科融合</span></p></li>
+    </ul>
+  </div>
+  <div class="clear"></div>
+ </div>
+</div>
+<div class="csl1 bj_d">
+ <div class="main">
+  <div class="csl_bt1 bt_d"><i></i>Leadership领导力<i></i><p>令世界趋之若鹜的魅力</p></div>
+  <div class="csl_nr1">领导力是一项&quot;软实力&quot;，宣怀认为，这种&quot;软实力&quot;在未来至关重要，它可以通过体育类、科创类竞技项目以及生存技能训练等多元化的学习进行培养。<br>
+    提升个人魅力，增强社会活动的影响力，对学生未来发展，走向世界舞台都能起到至关重要的作用。<br>
+    对此，宣怀教育拥有三把养成秘钥，循序渐进地帮助学生塑造领导力。</div>
+  <ul class="csl_lb2">
+   <li>
+    <div class="imgk"><img src="images/csl_e1.jpg"></div>
+    <div class="txtk">
+    <h2>复杂问题应对技能</h2>
+    <p>未来世界的人才不仅需要有独当一面的技能，更需要有组织团队和整合各项资源的能力、批判性思维能力和应对复杂问题的能力。</p></div>
+   </li>
+   <li>
+    <div class="imgk"><img src="images/csl_e2.jpg"></div>
+    <div class="txtk">
+    <h2>资源管理技能</h2>
+    <p>面对世界的飞速发展和变化，能合理有效管理好时间、资源的人才能获得更大的发展与进步，成为团队的领袖。</p></div>
+   </li>
+   <li>
+    <div class="imgk"><img src="images/csl_e3.jpg"></div>
+    <div class="txtk">
+    <h2>创造差异化技能</h2>
+    <p>宣怀尊重学生的个体差异，并能通过教育使其获得学习、发展的主动权，让学生拥有在某个领域独树一帜的成就感，使其未来在该领域拥有足够的自信与能力去开拓。</p></div>
+   </li>
+  
+  </ul>
+ 
+  <div class="clear"></div>
+ </div>
+</div>
+<div class="csl1 csl_bj1">
+ <div class="main">
+  <div class="csl_bt1 bt_d">相辅相成，环环相扣</div>
+  <div class="csl_nr1">宣怀的&quot;CSL教学体系&quot;，三项虽然各自独立，却相辅相成、环环相扣，一站式满足家长对孩子综合能力发展的所有需求。<br>
+    你可以用演讲口才奏出金色的童年；也可以用科学描绘出蓝色的未来；也可以用艺术创作的足尖舞出缤纷的世界；更可以用独特的魅力，引领自己的人生轨迹。宣怀教育致力于培养在科创时代具有核心素养的世界公民。</div>
+  
+ 
+  <div class="clear"></div>
+ </div>
+</div>
+<div class="footbox" id="footbox"></div>
+</body>
+</html>

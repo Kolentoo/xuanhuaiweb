@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>宣怀教育</title>
+<meta name="description" content="宣怀教育" />
+<meta name="keywords" content="宣怀教育" />
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<!-- Bootstrap -->    
+<link rel="stylesheet" href="css/bootstrap.min.css">
+<link rel="stylesheet" href="css/bootstrap-theme.min.css">
+<link type="text/css" rel="stylesheet" href="css/css.css" />
+<script src="js/jquery.min.js"></script>
+<!--轮转焦点图-->
+<script src="js/jquery.hiSlider.js"></script>
+<link rel="stylesheet" href="css/jquery.hiSlider.css">
+<!-- swiper -->
+<link rel="stylesheet" href="css/idangerous.swiper.css">
+<script src="js/idangerous.swiper.min.js"></script>
+<script src="js/core.js"></script>
+
+</head>
+<body>
+<div class="head" id="head"></div>
+<div class="sy_ban">
+<ul class="hiSlider hiSlider1">
+  <li class="hiSlider-item"><img src="images/ban.jpg"><div class="txtk"><div class="main"><a href="" class="dbt">"宣怀圣诞亲子嘉年华"武汉站圆满落幕</a><a href="#" class="cd_more1">了解更多<span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span></a></p></div></div></li>
+  <li class="hiSlider-item"><img src="images/ban.jpg"><div class="txtk"><div class="main"><a href="" class="dbt">"宣怀圣诞亲子嘉年华"武汉站圆满落幕</a><a href="#" class="cd_more1">了解更多<span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span></a></p></div></div></li>
+  <li class="hiSlider-item"><img src="images/ban.jpg"><div class="txtk"><div class="main"><a href="" class="dbt">"宣怀圣诞亲子嘉年华"武汉站圆满落幕</a><a href="#" class="cd_more1">了解更多<span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span></a></p></div></div></li>
+</ul>
+<div class="clear"></div>
+</div>
+<div class="sy1">
+ <div class="main">
+  <div class="sy_bt1"><h2>Branding Project</h2><i></i>教育项目<i></i></div>
+  <ul class="sy_lb1">
+   <li><a href="">
+   <div class="imgk"><img src="images/sy_a1.jpg"><i></i><img src="images/gy_a1_1.png" class="img2"></div><p>国际幼儿园</p></a></li>
+   <li><a href="">
+   <div class="imgk"><img src="images/sy_a2.jpg"><i></i><img src="images/gy_a1_1.png" class="img2"></div><p>国际学校</p></a></li>
+   <li><a href="">
+   <div class="imgk"><img src="images/sy_a3.jpg"><i></i><img src="images/gy_a1_1.png" class="img2"></div><p>菁英学习中心</p></a></li>
+   <li><a href="">
+   <div class="imgk"><img src="images/sy_a4.jpg"><i></i><img src="images/gy_a1_1.png" class="img2"></div><p>教育联盟</p></a></li>
+   <li><a href="">
+   <div class="imgk"><img src="images/sy_a5.jpg"><i></i><img src="images/gy_a1_1.png" class="img2"></div><p>在线课堂</p></a></li>
+   <li><a href="">
+   <div class="imgk"><img src="images/sy_a6.jpg"><i></i><img src="images/gy_a1_1.png" class="img2"></div><p>教育研究院</p></a></li>
+  </ul>
+  <div class="sy_bt1"><h2>News Release</h2><i></i>新闻发布<i></i></div>
+  <ul class="sy_lb2">
+   <li>
+     <div class="imgk"><a href=""><img src="images/sy_b1.jpg"></a></div>
+     <div class="txtk">
+      <a href="" class="dbt">携手中国科学院幼儿园，宣怀教育</a>
+      <span class="sj">2018-06-3</span>
+      <p>宣怀教育与中国科学院中科启仁签订战略合作协议，引入中科院先进的科学课程体系，中科启元郭美仙及宣怀教育副总裁王鹏等出席此次签约仪式。</p>
+      <a href="" class="cd_more1"><span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span></a>
+     </div>
+    </li>
+    <li>
+     <div class="imgk"><a href=""><img src="images/sy_b1.jpg"></a></div>
+     <div class="txtk">
+      <a href="" class="dbt">携手中国科学院幼儿园，宣怀教育与中科启元签订战略合作协议</a>
+      <span class="sj">2018-06-3</span>
+      <p>宣怀教育与中国科学院中科启仁签订战略合作协议，引入中科院先进的科学课程体系，中科启元郭美仙及宣怀教育副总裁王鹏等出席此次签约仪式。</p>
+      <a href="" class="cd_more1"><span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span></a>
+     </div>
+    </li>
+  </ul>
+  <div class="sy_lb2_r">
+   <h2>宣怀观察</h2>
+   <ul class="sy_lb3">
+    <li><a href="">2018教育行业的10大关键词 在突变中逐渐走向规范</a><span class="sj">2018-06-3</span></li>
+    <li><a href="">2018教育行业的10大关键词 在突变中逐渐走向规范</a><span class="sj">2018-06-3</span></li>
+    <li><a href="">2018教育行业的10大关键词 在突变中逐渐走向规范</a><span class="sj">2018-06-3</span></li>
+    <li><a href="">2018教育行业的10大关键词 在突变中逐渐走向规范</a><span class="sj">2018-06-3</span></li>
+   </ul>
+  </div>
+  <div class="clear"></div>
+ </div>
+</div>
+
+<div class="footbox" id="footbox"></div>
+
+<script>
+//轮转图
+// mode: 'fade', 渐变
+       // $('.hiSlider2').hiSlider();
+	    $('.hiSlider1').hiSlider({
+	        isFlexible: true,	       
+	        isSupportTouch: true,
+	        isShowTitle: false,
+	        isShowPage: true,
+	        titleAttr: function(curIdx){
+	            return $('img', this).attr('alt');
+	        }
+			
+			
+	    });
+	   
+</script>
+</body>
+</html>
