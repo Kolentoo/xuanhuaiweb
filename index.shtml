@@ -25,9 +25,58 @@
 <div class="head" id="head"></div>
 <div class="sy_ban">
 <ul class="hiSlider hiSlider1">
+  <li class="hiSlider-item">
+    <a href="http://www.hsuanhuai.cn/activity/pcspeech.html" class="block pc"><img src="images/study-banner1.png"></a>
+    <a href="http://www.hsuanhuai.cn/activity/speech_sum.html" class="block mobile"><img src="images/study-banner1.png"></a>
+    <div class="txtk">
+      <div class="main">
+        <a href="" class="dbt">"宣怀圣诞亲子嘉年华"武汉站圆满落幕</a>
+        <a href="#" class="cd_more1">
+          了解更多<span class="glyphicon glyphicon-menu-right" aria-hidden="true">
+          </span>
+        </a>
+      </p>
+    </div>
+  </div>
+  </li>
+  <li class="hiSlider-item">
+    <a href="http://www.hsuanhuai.cn/activity/pcscratch.html" class="block pc"><img src="images/study-banner3.png"></a>
+    <a href="http://www.hsuanhuai.cn/activity/scratch_sum.html" class="block mobile"><img src="images/study-banner3.png"></a>
+    <div class="txtk"><div class="main"><a href="" class="dbt">"宣怀圣诞亲子嘉年华"武汉站圆满落幕</a><a href="#" class="cd_more1">了解更多<span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span></a></p></div></div></li>
   <li class="hiSlider-item"><img src="images/ban.jpg"><div class="txtk"><div class="main"><a href="" class="dbt">"宣怀圣诞亲子嘉年华"武汉站圆满落幕</a><a href="#" class="cd_more1">了解更多<span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span></a></p></div></div></li>
-  <li class="hiSlider-item"><img src="images/ban.jpg"><div class="txtk"><div class="main"><a href="" class="dbt">"宣怀圣诞亲子嘉年华"武汉站圆满落幕</a><a href="#" class="cd_more1">了解更多<span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span></a></p></div></div></li>
-  <li class="hiSlider-item"><img src="images/ban.jpg"><div class="txtk"><div class="main"><a href="" class="dbt">"宣怀圣诞亲子嘉年华"武汉站圆满落幕</a><a href="#" class="cd_more1">了解更多<span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span></a></p></div></div></li>
+  <li class="hiSlider-item">
+      <a href="http://www.hsuanhuai.cn/activity/pcspeech.html" class="block pc"><img src="images/study-banner1.png"></a>
+      <a href="http://www.hsuanhuai.cn/activity/speech_sum.html" class="block mobile"><img src="images/study-banner1.png"></a>
+      <div class="txtk">
+        <div class="main">
+          <a href="" class="dbt">"宣怀圣诞亲子嘉年华"武汉站圆满落幕</a>
+          <a href="#" class="cd_more1">
+            了解更多<span class="glyphicon glyphicon-menu-right" aria-hidden="true">
+            </span>
+          </a>
+        </p>
+      </div>
+    </div>
+    </li>
+  <li class="hiSlider-item">
+      <a href="http://www.hsuanhuai.cn/activity/pcmitsc.html" class="block pc"><img src="images/study-banner4.png"></a>
+      <a href="http://www.hsuanhuai.cn/activity/mit_sc.html" class="block mobile"><img src="images/study-banner4.png"></a>
+      <div class="txtk"><div class="main"><a href="" class="dbt">"宣怀圣诞亲子嘉年华"武汉站圆满落幕</a><a href="#" class="cd_more1">了解更多<span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span></a></p></div></div></li>
+    <li class="hiSlider-item"><img src="images/ban.jpg"><div class="txtk"><div class="main"><a href="" class="dbt">"宣怀圣诞亲子嘉年华"武汉站圆满落幕</a><a href="#" class="cd_more1">了解更多<span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span></a></p></div></div></li>
+    <li class="hiSlider-item">
+      <a href="http://www.hsuanhuai.cn/activity/pcspeech.html" class="block pc"><img src="images/study-banner1.png"></a>
+      <a href="http://www.hsuanhuai.cn/activity/speech_sum.html" class="block mobile"><img src="images/study-banner1.png"></a>
+      <div class="txtk">
+        <div class="main">
+          <a href="" class="dbt">"宣怀圣诞亲子嘉年华"武汉站圆满落幕</a>
+          <a href="#" class="cd_more1">
+            了解更多<span class="glyphicon glyphicon-menu-right" aria-hidden="true">
+            </span>
+          </a>
+        </p>
+      </div>
+    </div>
+    </li>
 </ul>
 <div class="clear"></div>
 </div>
