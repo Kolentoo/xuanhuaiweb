@@ -27,12 +27,12 @@ $(function(){
     futureSwiper();
     checkInfo();
 
-
+    // studySwiper();
+    mapShow();
 
 })
 
 function checkInfo(){
-    console.log($('.backtime').val())
     $('.submit').find('.p1').on('click',function(){
         if($('.name').val()){
             if($('.zone').val()){
@@ -302,7 +302,7 @@ function futureSwiper(){
                 var swiper = new Swiper('.future3',{
                     loop:true,
                     slidesPerView: 1,
-                    autoplay:0,
+                    autoplay:3000,
                     calculateHeight:true,
                     pagination: '.pagination3',
                     paginationClickable: true
@@ -431,6 +431,76 @@ function addLeft(){
     }
 }
 
+// 学习中心轮播图
+function studySwiper(){
+
+    var ua = navigator.userAgent;
+
+    var ipad = ua.match(/(iPad).*OS\s([\d_]+)/),
+
+    isIphone =!ipad && ua.match(/(iPhone\sOS)\s([\d_]+)/),
+
+    isAndroid = ua.match(/(Android)\s+([\d.]+)/),
+
+    isMobile = isIphone || isAndroid;
+    if($('.study-swiper1').get(0)){
+    
+            
+        if(isMobile){
+            var swiper = new Swiper('.study-swiper1',{
+                loop:true,
+                slidesPerView: 1,
+                autoplay:3000,
+                calculateHeight:true,
+                pagination: '.study-pagination1',
+                paginationClickable: true
+            })
+            $('.swiper-arrow').addClass('hide');
+        }else{
+            var swiper = new Swiper('.study-swiper1',{
+                loop:true,
+                slidesPerView: 1,
+                autoplay:3000,
+                calculateHeight:true,
+                pagination: '.study-pagination1',
+                paginationClickable: true
+            })
+            $('.swiper-arrow').removeClass('hide');
+        }
+
+
+
+        $(window).resize(function() {
+            var window_width = $(window).width();//获取浏览器窗口宽度
+            if(window_width<1000){
+                var swiper = new Swiper('.study-swiper1',{
+                    loop:true,
+                    slidesPerView: 1,
+                    autoplay:3000,
+                    calculateHeight:true,
+                    pagination: '.study-pagination1',
+                    paginationClickable: true
+                })
+            }
+        });
+
+
+    }
+
+}
+
+// 学习中心地图展示
+function mapShow(){
+    $('.city-list').on('mouseenter',function(){
+        var o = $(this);
+        var os = o.siblings()
+        var oindex = o.index()
+        var address1 = $('.add-list').eq(oindex);
+        var address2 = address1.siblings()
+        address2.addClass('hide')
+        address1.removeClass('hide')
+    })
+}
 
 
 
