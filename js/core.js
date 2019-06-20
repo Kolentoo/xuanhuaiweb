@@ -32,12 +32,17 @@ $(function(){
 })
 
 function checkInfo(){
+    console.log($('.backtime').val())
     $('.submit').find('.p1').on('click',function(){
         if($('.name').val()){
             if($('.zone').val()){
                 if($('.phone').val()){
                     if($('.phone').val().length===11&&$('.phone').val().charAt(0)==='1'){
-                        submitInfo();
+                        if($('.backtime').val()){
+                            submitInfo();
+                        }else{
+                            msg('请选择回访时间')
+                        }
                     }else{
                         msg('手机号格式错误')
                     }
@@ -72,7 +77,8 @@ function submitInfo(){
             entity_name:$('.zone').val(),
             contact_name:$('.name').val(),
             mobile:$('.phone').val(),
-            channel_id:28
+            channel_id:28,
+            call_back_date:$('.backtime').val(),
         },
         'Content-Type': 'application/x-www-form-urlencoded',
         dataType:'json',//json,jsonp,text,xml
